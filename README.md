@@ -11,7 +11,7 @@ This project is a detailed comparison of three popular gym chains — **VASA Fit
 ## 🔗
 
 Check out the live site here:  
-**[Gym Comparison Live Site](https://exquisite-pavlova-70f966.netlify.app/)**
+**[🏋️‍♂️ Which Gym Wins?](https://exquisite-pavlova-70f966.netlify.app/)**
 
 ## 📁 Project Structure
 
