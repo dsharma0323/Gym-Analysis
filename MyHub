@@ -11,7 +11,7 @@ This project is a detailed comparison of three popular gym chains — **VASA Fit
 ## 🔗 Live Demo
 
 Check out the live site here:  
-**[Gym Comparison Live Site (hosted on Netlify)](https://exquisite-pavlova-70f966.netlify.app/)**
+**[Gym Comparison Live Site](https://exquisite-pavlova-70f966.netlify.app/)**
 
 ## 📁 Project Structure
 
@@ -19,11 +19,6 @@ Check out the live site here:
 - `style.css` — Optional: for styling, if used  
 - `images/` — Any logos or icons used (if applicable)
 
-## 🛠️ Tools Used
-
-- HTML, CSS  
-- Deployed using **Netlify**  
-- Built with 💪 and curiosity
 
 ## 📌 Summary
 
