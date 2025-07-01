@@ -13,11 +13,12 @@ This project is a detailed comparison of three popular gym chains — **VASA Fit
 Check out the live site here:  
 **[🏋️‍♂️ Which Gym Wins?](https://exquisite-pavlova-70f966.netlify.app/)**
 
-## 📁 Project Structure
 
-- `index.html` — Main breakdown and content layout  
-- `style.css` — Optional: for styling, if used  
-- `images/` — Any logos or icons used (if applicable)
+## 💭 Why I Made This
+
+I created this page to help people like me who were overwhelmed by gym options and wanted a clear, side-by-side breakdown. Whether you're just starting your fitness journey or thinking about switching gyms, this site helps you make a more confident choice based on real-world needs.
+
+It also gave me a chance to practice web publishing and build something useful while exploring different research tools. 
 
 
 ## 📌 Summary
