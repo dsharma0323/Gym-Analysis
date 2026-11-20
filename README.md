@@ -1,28 +1,35 @@
-# 🏋️‍♂️ Gym Membership Analysis: VASA vs Lifetime vs Planet Fitness
+# Gym Membership Comparison: VASA vs. Life Time vs. Planet Fitness
 
-This project is a detailed comparison of three popular gym chains — **VASA Fitness**, **Lifetime Fitness**, and **Planet Fitness** — based on:
+A consumer-focused comparison project designed to help people evaluate gym memberships based on their priorities and budget.
 
-- ✅ Amenities offered  
-- 💰 Membership costs  
-- 📍 Location accessibility  
-- ⚖️ Pros and cons of each gym  
-- 🧠 Overall value for different fitness goals  
+## Live site
+[View the gym comparison](https://exquisite-pavlova-70f966.netlify.app/)
 
-## 🔗
+## Project overview
+Choosing a gym involves more than comparing monthly prices. This project organizes information about **VASA Fitness**, **Life Time**, and **Planet Fitness** around practical decision factors:
 
-Check out the live site here:  
-**[🏋️‍♂️ Which Gym Wins?](https://exquisite-pavlova-70f966.netlify.app/)**
+- Membership pricing and overall value
+- Amenities and workout facilities
+- Location convenience
+- Pros and cons for different fitness goals
 
+The goal is to make trade-offs easier to understand for someone choosing a membership.
 
-## 💭 Why I Made This
+## Product and business thinking
+**User problem:** Comparing gyms across separate websites can be time-consuming and confusing.
 
-I created this page to help people like me who were overwhelmed by gym options and wanted a clear, side-by-side breakdown. Whether you're just starting your fitness journey or thinking about switching gyms, this site helps you make a more confident choice based on real-world needs.
+**Approach:** Bring important decision criteria into a single side-by-side comparison, so visitors can focus on what matters to them.
 
-It also gave me a chance to practice web publishing and build something useful while exploring different research tools. 
+**Potential improvements:**
+- Add filters for budget, location, and preferred amenities.
+- Add a weighted comparison tool for personal priorities.
+- Cite and date membership pricing and feature information.
+- Conduct usability testing to see whether the comparison helps users decide faster.
 
+## Tools and skills
+Consumer research · Comparative analysis · Information organization · Static website publishing · Netlify
 
-## 📌 Summary
+## Notes
+Membership pricing, amenities, and availability can vary by location and change over time. Verify current details directly with each gym before making a purchasing decision.
 
-This site was created as a mini portfolio project to analyze gym options and build experience deploying static web pages.  
-It’s perfect for anyone looking to understand which gym may be worth it based on personal preferences and budget.
-
+This is a qualitative comparison and decision-support project, **not** a statistical analysis or a claim of measured business impact.
